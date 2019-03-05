@@ -1,6 +1,6 @@
 # Python Programming with the Pimoroni Blinkt!
 
-![Pimoroni Blinkt](https://github.com/bgant/blinkt/blob/master/pimoroni-blinkt.jpg)
+![Pimoroni Blinkt](https://github.com/bgant/blinkt-scripts/blob/master/pimoroni-blinkt.jpg)
 
 One day my 11 year old niece said "I don't think I'm smart enough to program." 
 
